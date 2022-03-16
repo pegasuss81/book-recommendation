@@ -77,5 +77,5 @@ def get_recommendataions():
 # =============================
 
 if __name__ == '__main__':
-    #app.run()
-    app.run(debug=True, port=3000)
+    app.run(debug=True)
+    #app.run(debug=True, port=3000)
