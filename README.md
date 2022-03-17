@@ -2,6 +2,9 @@
 # book-recommendation
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pegasuss81/book-recommendation/notebooks?labpath=combined_binder.ipynb)
 
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/pegasuss81/book-recommendation/notebooks?labpath=combined_binder.ipynb
+ 
 This is a book recommendation system in attempt to incorporate user's input for several factors i.e user ratings, text reviews, and book descriptions. I use Amazon review data scrawled from user reviews ranging from 1996 to 2018. 
 https://nijianmo.github.io/amazon/index.html#subsets
 
